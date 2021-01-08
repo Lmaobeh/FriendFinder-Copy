@@ -5,7 +5,7 @@ I took lead on this project for my CS 400 class. This application is a local soc
 2. Download java and GNU make
 3. run the `make` command while the cloned directory is your current working directory
 - note: they ser file is preloaded with three people: Lucas, Davis, and Luke.
-## using the application
+## Using the application
 ### Logging on
 1. It will ask you to enter your name. You are either in the system or not. 
 2. If you are in the system it will load your profile. Else it will create a profile for you. Follow the commands giving
